@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Program 4</title>
+	<style type="text/css">
+		table, h1{
+			text-align: center;
+		}
+		table{
+			border: solid;
+			margin-top: 10%;
+		}
+	</style>
+</head>
+<h1>Program 4</h1>
+<script type="text/javascript">
+		var myTable = "<table align='center'> <tr> <th>Number</th> <th>Square</th> <th>Cube</th> </tr>";
+
+		var square = 0; 
+		var cube = 0;
+
+		for(var i = 0; i < 11; i++){
+			square = i * i;
+			cube = i * i * i;
+
+			myTable += "<tr> <td>" + i + "</td><td>" + square + "</td><td>" + cube + "</tr>";
+		}
+
+		myTable += "</table>";
+		document.write(myTable);
+</script>
+</html>

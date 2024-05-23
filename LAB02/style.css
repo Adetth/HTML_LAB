@@ -1,0 +1,13 @@
+
+.external_div{
+	margin: 5%;
+	background-color: indianred;
+	padding: 3%;
+	border-radius: 10px;
+	box-shadow: 1px px 5px 1px rgba(0, 0, 0, 0.5);
+};
+
+
+.selectors_div p {
+	background-color: green;
+};
