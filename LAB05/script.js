@@ -1,4 +1,4 @@
-var speed = 100;
+var speed = 1000;
 var interval1 = setInterval(grow, speed);
 var fontSize = 5;
 var idName = document.getElementById("paragraph-element");
