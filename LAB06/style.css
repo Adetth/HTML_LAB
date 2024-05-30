@@ -1,0 +1,79 @@
+vtu{
+	background-color: whitesmoke;
+}
+
+student{
+	text-align: center;
+	padding: 15px;
+	color: red;
+	font-size: 30px;
+	display: block;
+}
+
+name:before{
+	content: "NAME : ";
+	color: black;
+}
+
+usn:before{
+	content: "USN : ";
+	color: black;
+}
+
+college:before{
+	content: "COLLEGE : ";
+	color: black;
+}
+
+branch:before{
+	content: "BRANCH : ";
+	color: black;
+}
+
+joinyr:before{
+	content: "JOINYR : ";
+	color: black;
+}
+
+mail:before{
+	content: "MAIL : ";
+	color: black;
+}
+
+name, usn, college, branch, joinyr, mail{
+	font-size: 20px;
+	display: block;
+	color: darkgray;
+}
+
+name:hover{
+	color: darkred;
+	font-size: 25px;
+}
+
+usn:hover{
+	color: darkred;
+	font-size: 25px;
+
+}
+
+college:hover{
+	color: darkred;
+	font-size: 25px;
+}
+
+branch:hover{
+	color: darkred;
+	font-size: 25px;
+}
+
+joinyr:hover{
+	color: darkred;
+	font-size: 25px;
+}
+
+mail:hover{
+	color: darkred;
+	font-size: 25px;
+}
+

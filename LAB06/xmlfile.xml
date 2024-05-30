@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='style.css'?>
+<vtu>
+	<student> Student Info 1
+		<usn>AI001</usn>
+		<name>AAT</name>
+		<college>NHCE</college>
+		<branch>AIML</branch>
+		<joinyr>2021</joinyr>
+		<mail>AAT@gmail.com</mail>
+	</student>
+	<student> Student Info 2
+		<usn>CS032</usn>
+		<name>JKL</name>
+		<college>MVJ</college>
+		<branch>CSE</branch>
+		<joinyr>2020</joinyr>
+		<mail>JKL@hotmail.com</mail>
+	</student>
+	<student> Student Info 3
+		<usn>IS054</usn>
+		<name>ZXY</name>
+		<college>BITS</college>
+		<branch>IS</branch>
+		<joinyr>2022</joinyr>
+		<mail>ZXY@yrmym.com</mail>
+	</student>
+</vtu>
